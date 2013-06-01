@@ -4,6 +4,25 @@
 }
 
 #header {
+    clear: both;
+
+    border-bottom: 1px solid black;
+}
+
+#header #company {
+}
+
+#header #tagline {
+    padding-top: 0px;
+}
+
+#header #navbar ul {
+}
+
+#header #navbar li {
+    display: inline;
+    list-style-type: none;
+    padding-right: 20px;
 }
 
 /* page content */
@@ -15,4 +34,7 @@
 }
 
 #footer {
+    padding-top: 10px;
+    border-top: 1px solid black;
+    text-align: center;
 }

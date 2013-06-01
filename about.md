@@ -16,8 +16,4 @@ title: About Us
 <a name="contact"/>
 ### Contact Us
 
-Form goes here.
-
-And email option to
-Contact us, and
-Phone numbers
+{% include form.html %}

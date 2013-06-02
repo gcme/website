@@ -1,9 +1,12 @@
 body {
-    color: #444;
-    font-family: Helvetica;
-
     padding: 0px;
     margin: 0px;
+
+    background-image: url("textured_paper.png");
+    background-repeat: repeat;
+
+    color: #444;
+    font-family: Helvetica;
 }
 
 #wrapper {
@@ -15,6 +18,10 @@ body {
 }
 
 #header-wrapper {
+
+    background-image: url("classy_fabric.png");
+    background-repeat: repeat;
+
     background-color: #184F7D;
     color: white;
 }
@@ -29,7 +36,7 @@ body {
 }
 
 #header #company a {
-    color: white;
+    color: yellow;
     font-weight: normal;
     text-decoration: none;
 }
@@ -84,14 +91,19 @@ body {
     border-bottom: 2px solid #2879BE;
 }
 
+/* page subtitle */
+#body h4 {
+    font-size: 110%;
+}
+
 #footer {
-    margin-top: 20px;
+    margin-top: 40px;
     padding-top: 10px;
-    border-top: 1px solid black;
+    border-top: 1px solid #ccc;
     text-align: center;
 
     font-size: 70%;
-    color: #888;
+    color: #aaa;
 }
 
 #contact-info tr td:first-child {

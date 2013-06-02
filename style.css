@@ -68,14 +68,14 @@ body {
     margin-right: 10px;
     margin-left: -20px;
 
-    color: #9d9;
+    color: white;
     text-transform: uppercase;
     text-decoration: none;
     font-size: 80%;
 }
 
 #navbar a:hover {
-    color: yellow;
+    color: #9f9;
     text-decoration: underline;
 }
 

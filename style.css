@@ -85,10 +85,19 @@ body {
 }
 
 #footer {
+    margin-top: 20px;
     padding-top: 10px;
     border-top: 1px solid black;
     text-align: center;
 
     font-size: 70%;
     color: #888;
+}
+
+#contact-info tr td:first-child {
+    font-weight: bold;
+    text-align: right;
+
+    padding-left: 10px;
+    padding-right: 10px;
 }

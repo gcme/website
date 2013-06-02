@@ -7,26 +7,29 @@
 
     <div id="wrapper">
 
-      <div id="header">
-        <a href='./'><img src="logo.jpg"></a>
-
-        <h1 id="company"><a href='./'>GCME Telecom auditors LLC</a></h1>
-        <h2 id="tagline">Tagline</h2>
-
-        <ul id="navbar">
-          <li><a href="./">Services</a></li>
-          <li><a href="./faq">FAQ</a></li>
-          <li><a href="./about">About Us</a></li>
-          <li><a href="./contact">Contact Us</a></li>
-        </ul>
+      <div id="header-wrapper">
+        <div id="header" class="middle">
+          <!-- <a href='./'><img src="logo.jpg"></a> -->
+          <h1 id="company"><a href='./'>GCME Telecom auditors LLC</a></h1>
+          <h2 id="tagline">Because you're handsome and smart.</h2>
+        </div>
       </div>
 
-      <div id="body">
+      <div id="navbar-wrapper">
+        <div id="navbar" class="middle">
+          <a href="./">Services</a>
+          <a href="./faq">FAQ</a>
+          <a href="./about">About Us</a>
+          <a href="./contact">Contact Us</a>
+        </div>
+      </div>
+
+      <div id="body" class="middle">
         <h3>{{ page.title }}</h3>
         {{ content }}
       </div>
 
-      <div id="footer">
+      <div id="footer" class="middle">
         Copyright &copy; GCME Telecom auditors LLC 2013
       </div>
 

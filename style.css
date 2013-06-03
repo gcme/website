@@ -27,7 +27,25 @@ body {
 }
 
 #header {
-    padding: 50px 0px 30px 0px;
+    padding: 0px;
+    padding: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    overflow: auto;
+}
+
+#header #logo {
+    float: left;
+}
+
+#header #logo img {
+    width: 150px;
+    border: 1px solid #000;
+}
+
+#header #title {
+    float: right;
+    margin-top: 25px;
 }
 
 #header #company {
@@ -48,8 +66,9 @@ body {
 
 #header #tagline {
     font-weight: normal;
-    margin: 10px 0px;
     font-size: 120%;
+    margin: 0px;
+    margin-top: 10px;
     margin-left: 20px;
     font-family: Times;
     font-style: italic;

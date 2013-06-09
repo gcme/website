@@ -13,14 +13,21 @@ Simply put, we find money for you, and help you get it back.
 
 Some options we are offering are below, and we can customize any services for your specific needs.
 
- in-depth one-time audit of all your telecom services, including invoices, inventory, contracts and service records
- annual audits/service review, or more often, if you’d like
- inventory updating and maintenance 
- contract and tariff verification
- working with your staff to learn what to look for and perform in-house mini-audits
- escalation assistance for those "tough to solve" issues - we will babysit the issue with the carriers so your staff can do what they do best - their own jobs
- credit/refund assistance - if you have existing outstanding credits or refunds that you cannot seem to get back
- many, many more services
+  in-depth one-time audit of all your telecom services, including invoices, inventory, contracts and service records
+ 
+  annual audits/service review, or more often, if you’d like
+ 
+  inventory updating and maintenance 
+ 
+  contract and tariff verification
+ 
+  working with your staff to learn what to look for and perform in-house mini-audits
+ 
+  escalation assistance for those "tough to solve" issues - we will babysit the issue with the carriers so your staff can do what they do best - their own jobs
+ 
+  credit/refund assistance - if you have existing outstanding credits or refunds that you cannot seem to get back
+ 
+  many, many more services
 
 We offer several options for many services described above, and will work with you to determine the best option for your company.  Consider us your customizable full-time customer advocates.
 

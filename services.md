@@ -13,7 +13,7 @@ We can customize any services for your specific needs.  Consider us your flexibl
 
 * in-depth one-time audit of all your telecom services, including invoices, inventory, contracts and service records
 
-* annual audits/service review, or more often, if you’d like
+* annual audits/service review, or more often, if you'd like
 
 * inventory updating and maintenance
 
@@ -21,7 +21,7 @@ We can customize any services for your specific needs.  Consider us your flexibl
 
 * working with your staff to learn what to look for and perform in-house mini-audits
 
-* escalation assistance for those “tough to solve” issues - we will babysit the issue with the carriers so your staff can do what they do best - their own jobs
+* escalation assistance for those tough-to-solve issues.  We will babysit the issue with the carriers so your staff can do what they do best - their own jobs
 
 * credit/refund assistance - if you have existing outstanding credits or refunds that you cannot seem to get back
 

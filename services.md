@@ -9,16 +9,16 @@ We can customize our services to meet your specific needs.  Consider us your fle
 
 * in-depth one-time audit of all your telecom services, including invoices, inventory, contracts and service records
 
-* annual audits/service review, or more often, if you'd like
+* annual, semi-annual or monthly audits/service review
 
 * inventory updating and maintenance
 
 * contract and tariff verification
 
-* working with your staff to learn what to look for and perform in-house mini-audits
+* advising your staff to enhance their ability to perform in-house mini-audits
 
-* escalation assistance for those tough-to-solve issues.  We will babysit the issue with the carriers so your staff can do what they do best - their own jobs
+* escalation assistance for those tough-to-solve invoicing, service or inventory issues
 
-* credit/refund assistance - if you have existing outstanding credits or refunds that you cannot seem to get back
+* credit/refund assistance - if you have existing outstanding credits or refunds that you just can't seem to get back
 
 * many more services!  Contact us for a free, no-risk consultation!

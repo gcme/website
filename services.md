@@ -3,9 +3,9 @@ layout: basic
 title: Services
 ---
 
-It has been our experience that nearly all businesses using complex telecom services can benefit from a no-cost review of their services. Your people have plenty to do besides auditing their telecom contracts, invoices, service records and ordering history, let alone the hours spent on calls with carriers. The level of detailed and time-consuming effort required can take away from the productivity of your business.
+In these challenging economic times, it's a good idea for all businesses to take advantage of cost-saving measures when they can.  A free, no-cost review of their telecom services can help trim thousands every month, and may result in tens of thousands in credits or refunds owed to your company! We are very thorough, accurate and have extensive knowledge and experience advocating on clients' behalf, from both inside a telecom giant and directly for you.
 
-We can customize our services to meet your specific needs.  Consider us your flexible, dedicated advocates.
+We can customize our services to meet your unique needs.  Consider us your flexible, dedicated telecom advocates.
 
 * in-depth one-time audit of all your telecom services, including invoices, inventory, contracts and service records
 

@@ -13,6 +13,9 @@ Call today to set up a free review of your telecom services - just to take a loo
 
 Simply put, we find money owed to you, and help you get it back!  
 
+<a href="http://www.linkedin.com/in/gegeland">
+<img src="http://www.linkedin.com/img/webpromo/btn_liprofile_blue_80x15.png" width="80" height="15" border="0" alt="View Gretchen Egeland's profile on LinkedIn">
+</a>
 
 <a name="contact"/>
 ### Contact Us

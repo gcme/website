@@ -9,16 +9,14 @@ body {
     font-family: Helvetica;
 }
 
-#wrapper {
-}
-
-.middle {
+.container {
     width: 600px;
     margin: auto;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
-#header-wrapper {
-
+#header {
     background-image: url("classy_fabric.png");
     background-repeat: repeat;
 
@@ -74,7 +72,7 @@ body {
     font-style: italic;
 }
 
-#navbar-wrapper {
+#navbar {
     background-color: #1B1C1E;
 }
 

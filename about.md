@@ -9,13 +9,9 @@ Our experience working from "inside" a major telecom carrier and "outside" for c
 
 We are not sales people and do not represent any carriers, CLECs, software companies, resellers or anyone else. We represent you, the customer, and only you.  We offer several options and will work with you to find a solution that satisfies your business needs.
 
-Call today to set up a free review of your telecom services - just to take a look and see if things are going well. There is **no risk** to you and, if we are unable to find any savings for your company, there is **no cost** to you. 
+Call today to set up a free review of your telecom services - just to take a look and see if things are going well. There is **no risk** to you and, if we are unable to find any savings for your company, there is **no cost** to you.
 
-Simply put, we find money owed to you, and help you get it back!  
-
-<a href="http://www.linkedin.com/in/gegeland">
-<img src="http://www.linkedin.com/img/webpromo/btn_liprofile_blue_80x15.png" width="80" height="15" border="0" alt="View Gretchen Egeland's profile on LinkedIn">
-</a>
+Simply put, we find money owed to you, and help you get it back!
 
 <a name="contact"/>
 ### Contact Us

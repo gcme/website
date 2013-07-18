@@ -121,6 +121,8 @@ body {
 
     font-size: 70%;
     color: #aaa;
+
+    margin-bottom: 20px;
 }
 
 #contact-info tr td:first-child {

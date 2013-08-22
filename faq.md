@@ -28,7 +28,7 @@ title: FAQ
        TEM systems can sometimes miss critical billing errors, and some are higher-maintenance which require heavy input to enable them to catch any errors.  A no-cost, no-risk audit can help you determine if you are indeed receiving all the promised benefits of your system.
 
 9. *We are already working with a telecom expense company.*  
-       Chances are that your TEM company is providing excellent service and mazimizing your savings potential.  But a second opinion - at no cost and with no risk - is always a good idea.
+       Chances are that your TEM company is providing excellent service and maximizing your savings potential.  But a second opinion - at no cost and with no risk - is always a good idea.
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
